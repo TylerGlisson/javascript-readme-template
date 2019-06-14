@@ -1,6 +1,6 @@
 ## Project Title
 ### javascript-readme-template
-This is a simple mardown language previewer where the user can input markdown language and immediately see the results.
+[ description here ]
 
 ## Motivation
 This project was created for FreeCodeCamp as a skills challenge. 
